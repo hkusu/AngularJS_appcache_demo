@@ -1,0 +1,11 @@
+CACHE MANIFEST
+# TODO: ここにコメントやバージョン番号を書く
+
+CACHE:
+
+bower_components/angular/angular.js
+
+NETWORK:
+*
+
+FALLBACK:
